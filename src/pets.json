@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/LZocfeW.gif",
     "age": 3,
     "breed": "Scottish Terrier",
     "location": "Lisco, Alabama"
@@ -34,7 +34,7 @@
   {
     "id": 4,
     "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/scat.gif",
     "age": 2,
     "breed": "French Bulldog",
     "location": "Gerber, South Dakota"
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Fran",
-    "picture": "images/boxer.jpeg",
+    "picture": "images/scat.gif",
     "age": 3,
     "breed": "Boxer",
     "location": "Matheny, Utah"
@@ -98,7 +98,7 @@
   {
     "id": 12,
     "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/LZocfeW.gif",
     "age": 3,
     "breed": "French Bulldog",
     "location": "Kingstowne, Nevada"
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/scat.gif",
     "age": 4,
     "breed": "Golden Retriever",
     "location": "Sultana, Massachusetts"
@@ -122,7 +122,7 @@
   {
     "id": 15,
     "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/scottish-terrier.jpeg",
     "age": 2,
     "breed": "Golden Retriever",
     "location": "Dawn, Wisconsin"
